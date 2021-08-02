@@ -1,1 +1,1 @@
-# petclinic on K8s
+# petclinic on K8s/MySQL
