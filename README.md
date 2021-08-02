@@ -1,1 +1,1 @@
-# petclinic-kubernetes
+# petclinic on K8s
